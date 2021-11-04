@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SoftwareAcademyExamination>
+  <Shapes>
+  <Circle Name="Circle">
+    <Properties>
+     <Height>50</Height>
+     <Radius>30</Radius>
+     <Color>Red</Color>
+    </Properties>
+  </Circle>
+  <Triangle Name="Triangle">
+   <Properties>
+    <Height>50</Height>
+    <Width>25</Width>
+    <Color>Blue</Color>
+  </Properties>
+  </Triangle>
+  <Square Name="Square">
+   <Properties>
+    <Height>40</Height>
+    <Width>20</Width>
+    <Color>Green</Color>
+  </Properties>
+ </Square>
+    </Shapes>
+</SoftwareAcademyExamination>

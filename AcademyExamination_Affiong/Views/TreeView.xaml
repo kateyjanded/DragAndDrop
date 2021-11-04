@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="AcademyExamination_Affiong.Views.TreeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <Style TargetType="{x:Type TreeViewItem}">
+            <EventSetter Event="MouseMove" Handler="TreeViewItem_MouseMove"/>
+        </Style>
+    </UserControl.Resources>
+    <Grid Background="White">
+        <TreeView  Width="500" HorizontalAlignment="Left" ItemsSource="{Binding Items}"/>
+    </Grid>
+</UserControl>

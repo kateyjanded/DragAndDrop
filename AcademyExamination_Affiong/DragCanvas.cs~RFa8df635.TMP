@@ -1,0 +1,108 @@
+﻿using AcademyExamination_Affiong.ViewModel;
+using AcademyExamination_Affiong.Views;
+using DataAcessLibrary.Models;
+using Prism.Events;
+using System;
+using System.Collections.Generic;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Controls.Primitives;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Shapes;
+
+namespace AcademyExamination_Affiong
+{
+    public class DragCanvas: Canvas
+    {
+        public DragCanvas(MainWindowViewModel mainWindowViewModel)
+        {
+            mainWindowViewModel.DraWLineEvent += MainWindowViewModel_DraWLineEvent;
+            pt = new List<Point>();
+            Background = Brushes.LightCyan;
+        }
+
+        private void MainWindowViewModel_DraWLineEvent()
+        {
+            GetConnectedShape();
+        }
+
+        public DragCanvas(IEventAggregator ea)
+        {
+            ea.GetEvent<ConnectorEvent>().Subscribe(GetConnectedShape);
+        }
+
+        public event EventHandler Connect;
+        protected override void OnPreviewDrop(DragEventArgs e)
+        {
+            var data = e.Data.GetData("shapes");
+            var obj = data as Shape;
+            var position = e.GetPosition(this);
+            DragThumb drag = new DragThumb(obj);
+            drag.DragDelta += Drag_DragDelta;
+            drag.PreviewMouseLeftButtonDown += Drag_PreviewMouseLeftButtonDown;
+            SetTop(drag, position.Y);
+            SetLeft(drag, position.X);
+            Children.Add(drag);
+            OldThumb = SelectedThumb;
+            SelectedThumb = drag;
+        }
+
+        private void Drag_PreviewMouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            var send = sender as DragThumb;
+            //OldThumb = SelectedThumb;
+            //SelectedThumb = send;
+            if (pt.Count>2)
+            {
+                pt.RemoveAt(0);
+            }
+            pt.Add(e.GetPosition(this));
+        }
+
+        private void Drag_DragDelta(object sender, DragDeltaEventArgs e)
+        {
+            var thumb = sender as DragThumb;
+            var positionX = GetLeft(thumb);
+            var positionY = GetTop(thumb);
+            SetTop(thumb, positionY + e.VerticalChange);
+            SetLeft(thumb, positionX + e.HorizontalChange);
+            OldThumb = SelectedThumb;
+            SelectedThumb = thumb;
+        }
+        private void GetConnectedShape()
+        {
+            //ConnectedThumbs = new List<DragThumb>();
+            //ConnectedThumbs.Add(OldThumb);
+            //ConnectedThumbs.Add(SelectedThumb);
+            var line = new Line();
+            line.Stroke = Brushes.Black;
+            line.StrokeThickness = 5;
+            line.Fill = Brushes.Black;
+
+            //line.X1 = GetLeft(ConnectedThumbs[0]) + ConnectedThumbs[0].Shape.Width / 2;
+            //line.Y1 = GetTop(ConnectedThumbs[0]) + ConnectedThumbs[0].Shape.Height / 2;
+            //line.X2 = GetLeft(ConnectedThumbs[1]) + ConnectedThumbs[1].Shape.Width / 2;
+            //line.Y2 = GetTop(ConnectedThumbs[1]) + ConnectedThumbs[1].Shape.Height / 2;
+            var height = line.Y1 - line.Y2;
+            var width = line.X1 - line.X2;
+            if (height <0)
+            {
+                height *= -1; 
+            }
+            if (width < 0)
+            {
+                width *= -1;
+            }
+            line.Height = height;
+            line.Width = width;
+            DragThumb dragThumb = new DragThumb(line);
+            SetTop(dragThumb, line.Y1);
+            SetLeft(dragThumb, line.X1- line.Width);
+            Children.Add(dragThumb);
+        }
+        public List<Point> pt { get; set; }
+        public DragThumb SelectedThumb { get; set; }
+        public DragThumb OldThumb { get; set; }
+    }
+}

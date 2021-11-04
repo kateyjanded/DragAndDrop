@@ -1,0 +1,29 @@
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\DataAcessLibrary.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\DataAcessLibrary.pdb
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.pdb
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\FluentMigrator.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\FluentNHibernate.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\Iesi.Collections.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\log4net.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\NHibernate.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.csproj.CopyComplete
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\DataAcessLibrary.dll
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\DataAcessLibrary.pdb
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.csproj.CopyComplete
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.dll
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.pdb
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\DataAcessLibrary.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\DataAcessLibrary\bin\Debug\DataAcessLibrary.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.csproj.CopyComplete
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\DataAcessLibrary\obj\Debug\DataAcessLibrary.pdb

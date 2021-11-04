@@ -1,0 +1,81 @@
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\AcademyExamination_Affiong.exe.config
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\AcademyExamination_Affiong.exe
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\AcademyExamination_Affiong.pdb
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\MainWindow.g.cs
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\App.g.cs
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong_MarkupCompile.cache
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong_MarkupCompile.lref
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\MainWindow.baml
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.g.resources
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.Properties.Resources.resources
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csproj.GenerateResource.cache
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.exe
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.pdb
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\DataAcessLibrary.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\DataAcessLibrary.pdb
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csproj.CopyComplete
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\NHibernate.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\FluentNHibernate.dll
+C:\Users\affiong.asuquo\source\repos\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\Iesi.Collections.dll
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\AcademyExamination_Affiong.exe.config
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\AcademyExamination_Affiong.exe
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\AcademyExamination_Affiong.pdb
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\DataAcessLibrary.dll
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\NHibernate.dll
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\FluentNHibernate.dll
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\Iesi.Collections.dll
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\DataAcessLibrary.pdb
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\Views\TreeView.baml
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\MainWindow.g.cs
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\Views\DragThumb.g.cs
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\Views\TreeView.g.cs
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\App.g.cs
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong_MarkupCompile.cache
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong_MarkupCompile.lref
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\MainWindow.baml
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\Views\DragThumb.baml
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.g.resources
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.Properties.Resources.resources
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csproj.GenerateResource.cache
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csproj.CopyComplete
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.exe
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.pdb
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\affiong.asuquo\Documents\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\AcademyExamination_Affiong.exe.config
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\AcademyExamination_Affiong.exe
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\AcademyExamination_Affiong.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\DataAcessLibrary.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\FluentNHibernate.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\NHibernate.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\Iesi.Collections.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\DataAcessLibrary.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\Views\TreeView.baml
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\MainWindow.g.cs
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\Views\DragThumb.g.cs
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\Views\TreeView.g.cs
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\App.g.cs
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong_MarkupCompile.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong_MarkupCompile.lref
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\MainWindow.baml
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\Views\DragThumb.baml
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.g.resources
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.Properties.Resources.resources
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csproj.GenerateResource.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.csproj.CopyComplete
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.exe
+C:\Users\affiong.asuquo\Desktop\Affiong12\BackUp Files\AcademyExamination_Affiong\AcademyExamination_Affiong\obj\Debug\AcademyExamination_Affiong.pdb
